@@ -1,5 +1,10 @@
 # Machine Learning in Production
 
+![Status](https://img.shields.io/badge/Status-Active%20Development-4CAF50)
+![Status](https://img.shields.io/badge/status-active--development-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active%20Development-yellow)
+![Status](https://img.shields.io/badge/Status-Active%20Development-orange?style=flat-square)
+
 This repository contains my coursework, labs, and assignments for **Machine Learning in Production**, a course by [DeepLearning.AI](https://www.deeplearning.ai/), taught by **Andrew Ng**.
 
 ## About the Course
