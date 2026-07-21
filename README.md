@@ -5,7 +5,7 @@ This repository contain labs for **Machine Learning in Production**, a course by
 ## Certificate
 
 <p align="center">
-  <img src="images/deeplearningai_SAQIB.jpg" alt="deep_learning_specialization_certificate" width="700"/>
+  <img src="images/deeplearningai_SAQIB1.jpg" alt="Machine_learning_in_production_certificate" width="700"/>
 </p>
 
 ## About the Course
