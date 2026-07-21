@@ -4,6 +4,10 @@ This repository contain labs for **Machine Learning in Production**, a course by
 
 ## Certificate
 
+<p align="center">
+  <img src="images/deeplearningai_SAQIB.jpeg" alt="deep_learning_specialization_certificate" width="700"/>
+</p>
+
 ## About the Course
 
 Machine Learning in Production covers how to design and build end-to-end ML systems that run reliably in real-world environments. It goes beyond model training to focus on the engineering practices needed to deploy, monitor, and continuously improve ML applications in production.
