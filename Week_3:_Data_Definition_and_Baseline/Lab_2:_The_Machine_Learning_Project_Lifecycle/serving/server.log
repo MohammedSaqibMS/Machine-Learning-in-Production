@@ -1,0 +1,10 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1784604424.235049    4330 loader_harness.cc:71] Approving load for servable version {name: newsapp_model version: 2}
+I0000 00:00:1784604424.235081    4330 loader_harness.cc:79] Loading servable version {name: newsapp_model version: 2}
+I0000 00:00:1784604424.254936    4330 mlir_graph_optimization_pass.cc:425] MLIR V1 optimization pass is not enabled
+I0000 00:00:1784604424.337140    4345 loader_harness.cc:71] Approving load for servable version {name: newsapp_model version: 1}
+I0000 00:00:1784604424.337162    4345 loader_harness.cc:79] Loading servable version {name: newsapp_model version: 1}
+I0000 00:00:1784604424.422367    4330 loader_harness.cc:105] Successfully loaded servable version {name: newsapp_model version: 2}
+I0000 00:00:1784604424.491602    4345 loader_harness.cc:105] Successfully loaded servable version {name: newsapp_model version: 1}
+[warn] getaddrinfo: address family for nodename not supported
+[evhttp_server.cc : 261] NET_LOG: Entering the event loop ...
