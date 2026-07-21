@@ -10,4 +10,4 @@ Machine Learning in Production covers how to design and build end-to-end ML syst
 
 ## Reference
 
-- [Course page on DeepLearning.AI]([https://www.deeplearning.ai/courses/machine-learning-in-production](https://www.deeplearning.ai/courses/machine-learning-in-production))
+- [Course page on DeepLearning.AI](https://www.deeplearning.ai/courses/machine-learning-in-production)
