@@ -1,8 +1,4 @@
-<p align="center">
-  
-  # Machine Learning in Production
-
-</p>
+<h1 align="center">Machine Learning in Production</h1>
 
 This repository contain labs for **Machine Learning in Production**, a course by [DeepLearning.AI](https://www.deeplearning.ai/), taught by **Andrew Ng**.
 
